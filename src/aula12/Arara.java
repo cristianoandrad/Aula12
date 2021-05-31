@@ -9,6 +9,6 @@ package aula12;
  *
  * @author Suporte
  */
-public class Arara {
+public class Arara extends Ave{
     
 }

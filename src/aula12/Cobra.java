@@ -9,6 +9,6 @@ package aula12;
  *
  * @author Suporte
  */
-public class Cobra {
+public class Cobra extends Reptil{
     
 }

@@ -9,6 +9,6 @@ package aula12;
  *
  * @author Suporte
  */
-public class GoldFish {
+public class GoldFish extends Peixe {
     
 }

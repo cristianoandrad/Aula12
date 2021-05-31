@@ -9,6 +9,10 @@ package aula12;
  *
  * @author Suporte
  */
-public class Cachorro {
+public class Cachorro extends Mamifero{
+     @Override
+    public void emitirsom() {
+        System.out.println("Latindo");
+    }
     
 }

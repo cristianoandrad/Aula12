@@ -9,6 +9,6 @@ package aula12;
  *
  * @author Suporte
  */
-public class Tartaruga {
+public class Tartaruga extends Reptil{
     
 }
